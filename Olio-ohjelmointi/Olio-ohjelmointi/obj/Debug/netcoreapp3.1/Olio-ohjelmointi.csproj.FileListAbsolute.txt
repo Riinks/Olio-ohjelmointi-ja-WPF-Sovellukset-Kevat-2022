@@ -1,0 +1,14 @@
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.exe
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.deps.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.runtimeconfig.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.runtimeconfig.dev.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.dll
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\netcoreapp3.1\Olio-ohjelmointi.pdb
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.AssemblyInfoInputs.cache
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.AssemblyInfo.cs
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.dll
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.pdb
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\netcoreapp3.1\Olio-ohjelmointi.genruntimeconfig.cache

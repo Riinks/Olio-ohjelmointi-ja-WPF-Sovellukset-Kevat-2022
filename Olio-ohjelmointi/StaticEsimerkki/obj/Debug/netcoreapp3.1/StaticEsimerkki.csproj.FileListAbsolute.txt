@@ -1,0 +1,13 @@
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.exe
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.deps.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.runtimeconfig.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.runtimeconfig.dev.json
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.dll
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\bin\Debug\netcoreapp3.1\StaticEsimerkki.pdb
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.AssemblyInfoInputs.cache
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.AssemblyInfo.cs
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.csproj.CoreCompileInputs.cache
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.dll
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.pdb
+C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\StaticEsimerkki\obj\Debug\netcoreapp3.1\StaticEsimerkki.genruntimeconfig.cache

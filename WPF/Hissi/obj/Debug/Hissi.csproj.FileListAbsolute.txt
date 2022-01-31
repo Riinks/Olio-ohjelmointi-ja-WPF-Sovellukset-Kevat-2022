@@ -1,0 +1,17 @@
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.csproj.AssemblyReference.cache
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Kerros1.g.cs
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\MainWindow.g.cs
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\App.g.cs
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi_MarkupCompile.cache
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi_MarkupCompile.lref
+C:\Users\Ringo\source\repos\WPF\Hissi\bin\Debug\Hissi.exe.config
+C:\Users\Ringo\source\repos\WPF\Hissi\bin\Debug\Hissi.exe
+C:\Users\Ringo\source\repos\WPF\Hissi\bin\Debug\Hissi.pdb
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Kerros1.baml
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\MainWindow.baml
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.g.resources
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.Properties.Resources.resources
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.csproj.GenerateResource.cache
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.exe
+C:\Users\Ringo\source\repos\WPF\Hissi\obj\Debug\Hissi.pdb

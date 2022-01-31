@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ringo.ounapuu\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj": {}
+    "C:\\Users\\Ringo\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ringo.ounapuu\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj": {
+    "C:\\Users\\Ringo\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ringo.ounapuu\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj",
+        "projectUniqueName": "C:\\Users\\Ringo\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj",
         "projectName": "Olio-ohjelmointi",
-        "projectPath": "C:\\Users\\ringo.ounapuu\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj",
-        "packagesPath": "C:\\Users\\ringo.ounapuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ringo.ounapuu\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\obj\\",
+        "projectPath": "C:\\Users\\Ringo\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\Olio-ohjelmointi.csproj",
+        "packagesPath": "C:\\Users\\Ringo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ringo\\OneDrive - Careeria\\Työpöytä\\C\\Olio-ohjelmointi\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\Olio-ohjelmointi\\Olio-ohjelmointi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ringo.ounapuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ringo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
