@@ -11,3 +11,17 @@ C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-o
 C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.dll
 C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.pdb
 C:\Users\ringo.ounapuu\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.genruntimeconfig.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.exe
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.deps.json
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.runtimeconfig.json
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.runtimeconfig.dev.json
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.dll
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.pdb
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.csproj.AssemblyReference.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.AssemblyInfoInputs.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.AssemblyInfo.cs
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.dll
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.pdb
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.genruntimeconfig.cache

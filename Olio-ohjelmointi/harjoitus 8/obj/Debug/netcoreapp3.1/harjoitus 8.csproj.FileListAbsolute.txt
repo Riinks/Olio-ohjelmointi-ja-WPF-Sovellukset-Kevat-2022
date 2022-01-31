@@ -1,0 +1,5 @@
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\harjoitus 8\obj\Debug\netcoreapp3.1\harjoitus 8.csproj.AssemblyReference.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\harjoitus 8\obj\Debug\netcoreapp3.1\harjoitus 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\harjoitus 8\obj\Debug\netcoreapp3.1\harjoitus 8.AssemblyInfoInputs.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\harjoitus 8\obj\Debug\netcoreapp3.1\harjoitus 8.AssemblyInfo.cs
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio-ohjelmointi\harjoitus 8\obj\Debug\netcoreapp3.1\harjoitus 8.csproj.CoreCompileInputs.cache
