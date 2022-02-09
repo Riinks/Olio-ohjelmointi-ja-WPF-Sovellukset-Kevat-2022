@@ -1,0 +1,30 @@
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.exe.config
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.exe
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.pdb
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.AssemblyReference.cache
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\MainWindow.g.cs
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\App.g.cs
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus_MarkupCompile.cache
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus_MarkupCompile.lref
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\MainWindow.baml
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.g.resources
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma_Sovellus.Properties.Resources.resources
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.GenerateResource.cache
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.CoreCompileInputs.cache
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.exe
+C:\Users\rinks\source\repos\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.pdb
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.exe.config
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.exe
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\bin\Debug\Oma Sovellus.pdb
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.AssemblyReference.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\MainWindow.g.cs
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\App.g.cs
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus_MarkupCompile.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus_MarkupCompile.lref
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\MainWindow.baml
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.g.resources
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma_Sovellus.Properties.Resources.resources
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.GenerateResource.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.csproj.CoreCompileInputs.cache
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.exe
+C:\Users\Ringo\OneDrive - Careeria\Työpöytä\C\Olio-ohjelmointi\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Oma Sovellus\Oma Sovellus\obj\Debug\Oma Sovellus.pdb
